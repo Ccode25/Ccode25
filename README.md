@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ccode25
 - 👀 I’m interested in software and wed development
-- 🌱 I’m currently learning C language, python and C++
+- 🌱 I’m currently learning C language, python, HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on learning
   
 
