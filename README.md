@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccode25&label=Profile%20views&color=0e75b6&style=flat" alt="ccode25" /> </p>
 
-- 🔭 Previous Projects: [BlogV2](https://blogv2-pqnp.onrender.com), [Movie List](https://movie-list-api-project.onrender.com)
+- 🔭 Previous Projects: [BlogV2](https://blogv2-pqnp.onrender.com), [Movie List](https://movie-list-api-project.onrender.com), [Todo List](https://todolist-jp7w.onrender.com)
 
 - 🌱 I’m currently learning **Web Development from Udemy course (🖥️ C Language 🐍 Python 🌍 HTML 🎨 CSS 📜 JavaScript)**
 
