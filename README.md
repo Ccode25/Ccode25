@@ -5,7 +5,7 @@
 
 - 🔭 Previous Projects: [BlogV2](https://blogv2-pqnp.onrender.com), [Movie List](https://movie-list-api-project.onrender.com), [Todo List](https://todolist-jp7w.onrender.com)
 
-- 🌱 I’m currently learning **Web Development from Udemy course (🖥️ C Language 🐍 Python 🌍 HTML 🎨 CSS 📜 JavaScript)**
+- 🌱 I’m expanding my skills in web development through a Udemy course, focusing on: (🖥️ C Express.js  🚀 Node.js 🌍 HTML 🎨 CSS 📜 JavaScript 📊 PostgreSQL)**
 
 - 📫 How to reach me **aeronjake25@gmail.com**
 
