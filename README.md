@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aeron Jake Daelo</h1>
 
 <h3 align="center">
-Welcome to my GitHub profile! I’m passionate about software and web development, always eager to learn and grow in the field 🚀
+Welcome to my GitHub profile! I’m passionate always eager to learn and grow in the IT field 🚀
 </h3>
 
 <p align="center">
