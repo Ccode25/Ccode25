@@ -14,6 +14,8 @@ Welcome to my GitHub profile! I’m passionate always eager to learn and grow in
 - 🌐 [BlogV2](https://blogv2-pqnp.onrender.com)
 - 🎬 [Movie List](https://movie-list-api-project.onrender.com)
 - ✅ [Todo List](https://todolist-jp7w.onrender.com)
+- 💍 [Wedding Invitation](https://wedding-invitation-ten-zeta.vercel.app/)
+- 📝 [RSVP for Louie and Eli Wedding](https://rsvp-for-louie-and-eli-wedding.vercel.app/)
 
 ---
 
