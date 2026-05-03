@@ -17,24 +17,6 @@ Welcome to my GitHub profile! I’m passionate always eager to learn and grow in
 
 ---
 
-### 🌱 Currently Learning
-I’m expanding my skills in full-stack web development through Udemy, focusing on:
-
-- 🖥️ Express.js  
-- 🚀 Node.js  
-- 🌍 HTML  
-- 🎨 CSS  
-- 📜 JavaScript  
-- 📊 PostgreSQL  
-- ⚛️ React  
-
----
-
-### 📫 Contact Me
-- 📧 Email: **aeronjake25@gmail.com**
-
----
-
 ### 🌐 Connect With Me
 <p align="left">
 <a href="https://fb.com/aeron.daelo" target="_blank">
